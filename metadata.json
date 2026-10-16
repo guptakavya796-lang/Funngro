@@ -1,0 +1,6 @@
+{
+  "name": "Funngro - Teen Freelancing & Earning Platform",
+  "description": "Empowering teens to earn their first income through real company projects, internships, and skill-building in a safe, mentored ecosystem. As seen on Shark Tank India.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
